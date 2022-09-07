@@ -5,3 +5,4 @@ if no==0:
     print("The number %d is a zero value",no)
 else:
     print("The number %d is a non zero value",no)
+    
